@@ -1,9 +1,13 @@
 # Distributed Anti-Flocking Algorithms for Dynamic Coverage of Mobile Sensor Networks
 
-If you find this paper or code useful, we encourage you to cite the paper. BibTeX:
+If you find this [paper](http://ira.lib.polyu.edu.hk/handle/10397/60072) or code useful, we encourage you to cite the paper. BibTeX:
 
-    @inproceedings{yosinski-2015-ICML-DL-understanding-neural-networks,
-    Author = {Jason Yosinski and Jeff Clune and Anh Nguyen and Thomas Fuchs and Hod Lipson},
-    Booktitle = {Deep Learning Workshop, International Conference on Machine Learning (ICML)},
-    Title = {Understanding Neural Networks Through Deep Visualization},
-    Year = {2015}}
+    @article{ganganath2016anti-flocking,
+    title={Distributed Anti-Flocking Algorithms for Dynamic Coverage of Mobile Sensor Networks},
+    author={Nuwan Ganganath and Chi-Tsun Cheng and Chi K. Tse},
+    journal={IEEE Transactions on Industrial Informatics},
+    year={2016},
+    volume={12},
+    number={5},
+    pages={1795--1805},
+    publisher={IEEE}}
