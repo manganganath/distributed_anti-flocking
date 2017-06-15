@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % An implementation of
 % @article{ganganath2016anti-flocking,
 % title={Distributed Anti-Flocking Algorithms for Dynamic Coverage of Mobile Sensor Networks},
@@ -11,7 +11,7 @@
 % publisher={IEEE}}
 %
 % Tested on MATLAB R2011b
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 close all; clear all; clc;
 
