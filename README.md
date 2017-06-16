@@ -23,6 +23,6 @@ To start the simulation, run main.m file using MATLAB. Parameters can be found a
 
 # Video
 
-This short video illustrates anti-flocking and obstacle avoidance functions of 5 agents. More details can be found in the above paper.
+This short video illustrates anti-flocking and obstacle avoidance functions of 5 α-agents (mobile sensor nodes). More details can be found in the above paper.
 
 [![Watch the video](Screenshot.png)](https://www.youtube.com/watch?v=mm9QK8Q2gjM)
