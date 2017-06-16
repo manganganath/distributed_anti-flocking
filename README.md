@@ -19,7 +19,8 @@ If you find this paper or code useful, we encourage you to cite the paper. BibTe
 
 # Running the code
 
-This code was tested using MATLAB R2011b. Parameters can be found at the start of the main.m file. To start the simulation, run main.m file using MATLAB.
+Parameters can be found at the start of the main.m file. To start the simulation, run main.m file using MATLAB. This code was tested using MATLAB R2011b. 
 
 # Video
+
 [![Watch the video](Screenshot.png)](https://www.youtube.com/watch?v=mm9QK8Q2gjM)
