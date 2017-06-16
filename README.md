@@ -19,8 +19,10 @@ If you find this paper or code useful, we encourage you to cite the paper. BibTe
 
 # Running the code
 
-Parameters can be found at the top of the main.m file. To start the simulation, run main.m file using MATLAB. This code was tested using MATLAB R2011b. 
+To start the simulation, run main.m file using MATLAB. Parameters can be found at the top of the main.m file. This code was tested using MATLAB R2011b.
 
 # Video
+
+This short video illustrates anti-flocking and obstacle avoidance functions of 5 agents. More details can be found in the above paper.
 
 [![Watch the video](Screenshot.png)](https://www.youtube.com/watch?v=mm9QK8Q2gjM)
