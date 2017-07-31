@@ -64,8 +64,8 @@ map_free_y = map_pos_y(obs_map~=-Inf);
 free_ind = datasample(1:1:length(map_free_x),num_agents);
 x_1(:,:) = [map_free_x(free_ind) map_free_y(free_ind)];
 
-x_r = x_1;                      %target position
-x_r_t = zeros(num_agents,3);    %target last visited time
+x_r = x_1;                      %search location
+x_r_t = zeros(num_agents,3);    %search location last visited time
 [I,J] = ind2sub(size(map_pos(:,:,1)),free_ind);
 x_r_t(:,1:2) = [I',J'];
 
