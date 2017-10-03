@@ -4,7 +4,7 @@ This repository contains MATLAB codes for distributed anti-flocking algorithms d
 
  * Nuwan Ganganath, Chi-Tsun Cheng, and Chi K. Tse, “[Distributed anti-flocking algorithms for dynamic coverage of mobile sensor networks](http://dx.doi.org/10.1109/TII.2016.2519913),” IEEE Transactions on Industrial Informatics, vol. 12, no. 5, pp. 1795-1805, 2016. [[PDF](http://ira.lib.polyu.edu.hk/handle/10397/60072)]
 
-Python implementation can be found at https://github.com/manganganath/distributed_anti-flocking_python
+A Python implementation can be found at https://github.com/manganganath/distributed_anti-flocking_python
 
 If you find this paper or code useful, we encourage you to cite the paper. BibTeX:
 
