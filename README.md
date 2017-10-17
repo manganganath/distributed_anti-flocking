@@ -9,7 +9,7 @@ A Python implementation can be found at https://github.com/manganganath/distribu
 If you find this paper or code useful, we encourage you to cite the paper. BibTeX:
 
     @article{ganganath2016antiflocking,
-        title={Distributed Anti-Flocking Algorithms for Dynamic Coverage of Mobile Sensor Networks},
+        title={Distributed Antiflocking Algorithms for Dynamic Coverage of Mobile Sensor Networks},
         author={Nuwan Ganganath and Chi-Tsun Cheng and Chi K. Tse},
         journal={IEEE Transactions on Industrial Informatics},
         year={2016},
